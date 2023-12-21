@@ -1,0 +1,161 @@
+body[b-f6vvf3qg88] {
+}
+
+.head[b-f6vvf3qg88] {
+    background-color: rgb(122, 155, 122);
+    font-size: 30px;
+    word-spacing: 90px;
+    padding-left: 25%;
+}
+
+.mensw[b-f6vvf3qg88] {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(212, 203, 203);
+    background-image: url(../Image/mwbg1.jpg);
+    margin-top: -20px;
+    border: 2px solid black;
+}
+
+.btn[b-f6vvf3qg88] {
+    text-decoration: none;
+    color: black;
+}
+
+    .btn:hover[b-f6vvf3qg88] {
+        background-color: aliceblue;
+        border-radius: 10px;
+    }
+
+.logo[b-f6vvf3qg88] {
+    margin-left: -33%;
+}
+
+.cloth[b-f6vvf3qg88] {
+    margin-left: 20%;
+    height: 450px;
+}
+
+body[b-f6vvf3qg88] {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fimg[b-f6vvf3qg88] {
+    height: 450px;
+    background-color: lightgray;
+}
+
+.img1[b-f6vvf3qg88] {
+    height: 100%;
+    object-fit: fill;
+}
+
+.navbar[b-f6vvf3qg88] {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    background-color: #002745 !important;
+    width: 100%;
+}
+
+.pin[b-f6vvf3qg88] {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.disc[b-f6vvf3qg88] {
+    border: none;
+    color: white;
+    background-color: #002745;
+}
+
+.search[b-f6vvf3qg88] {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #002745;
+}
+
+.secondnavi[b-f6vvf3qg88] {
+    background-color: white !important;
+    position: sticky;
+    top: 60px;
+}
+
+.snavi[b-f6vvf3qg88] {
+    color: #002745 !important;
+}
+
+.sort[b-f6vvf3qg88] {
+    margin-left: 500px;
+}
+
+.firstc[b-f6vvf3qg88] {
+    background-color: #002745;
+}
+
+.dress[b-f6vvf3qg88] {
+    height: 300px;
+}
+
+.heading[b-f6vvf3qg88] {
+    color: #002745;
+}
+
+.btn1[b-f6vvf3qg88] {
+    border: none;
+}
+
+.comp[b-f6vvf3qg88] {
+    text-align: center;
+}
+
+.head2[b-f6vvf3qg88] {
+    margin-left: 100px;
+}
+
+.flex-container[b-f6vvf3qg88] {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    display: flex;
+    justify-items: space-between;
+}
+
+.signin[b-f6vvf3qg88] {
+    color: white !important;
+}
+
+.help[b-f6vvf3qg88] {
+    padding-left: 70px !important;
+}
+
+.cart[b-f6vvf3qg88] {
+    padding-left: 70px !important;
+}
+
+.cname[b-f6vvf3qg88] {
+    color: #002745;
+    font-weight: bolder;
+    font-size: x-large;
+    padding-bottom: 20%;
+}
+
+.head3[b-f6vvf3qg88] {
+    margin-left: 70px;
+}
+
+.navii1[b-f6vvf3qg88] {
+    padding-top: 10px;
+}
+
+.masterhead[b-f6vvf3qg88] {
+    padding-top: 38px;
+    text-align: center;
+    /* position: sticky;
+  top: 60px; */
+}
